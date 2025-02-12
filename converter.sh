@@ -39,4 +39,4 @@ sleep 5
 
 # 7. send an AWS sns message
 # echo "Sending SNS message"
-# /usr/local/bin/aws sns publish public --topic-arn arn_name --message "Success"
+# /usr/local/bin/aws sns publish --topic-arn arn_name --message "Success"
